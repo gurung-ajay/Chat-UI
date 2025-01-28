@@ -1,0 +1,325 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Sarah Johnson",
+      "avatar": "https://plus.unsplash.com/premium_photo-1683140820086-0dc208d23ab2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmFrZSUyMHdvbWFufGVufDB8fDB8fHww",
+      "jobRole": "Senior Frontend Developer",
+      "department": "Engineering",
+      "email": "sarah.j@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:25:00+05:45"
+      },
+      "contacts": ["u2", "u3", "u4", "u5", "u6", "u7", "u8"]
+    },
+    {
+      "id": "u2",
+      "name": "Michael Chen",
+      "avatar": "https://www.machovibes.com/wp-content/uploads/2018/07/40-Best-Portrait-Photography-Poses-for-Men-27.jpg",
+      "jobRole": "Product Manager",
+      "department": "Product",
+      "email": "michael.c@company.com",
+      "status": {
+        "isOnline": false,
+        "lastSeen": "2025-01-28T09:15:00+05:45"
+      },
+      "contacts": ["u1", "u3", "u5", "u7", "u9"]
+    },
+    {
+      "id": "u3",
+      "name": "Emily Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "jobRole": "UI/UX Designer",
+      "department": "Design",
+      "email": "emily.r@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:30:00+05:45"
+      },
+      "contacts": ["u1", "u2", "u4", "u6", "u8"]
+    },
+    {
+      "id": "u4",
+      "name": "David Kim",
+      "avatar": "https://www.machovibes.com/wp-content/uploads/2018/07/40-Best-Portrait-Photography-Poses-for-Men-11.jpg",
+      "jobRole": "Backend Developer",
+      "department": "Engineering",
+      "email": "david.k@company.com",
+      "status": {
+        "isOnline": false,
+        "lastSeen": "2025-01-28T08:45:00+05:45"
+      },
+      "contacts": ["u1", "u3", "u5", "u7", "u9"]
+    },
+    {
+      "id": "u5",
+      "name": "Jessica Taylor",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "jobRole": "Marketing Manager",
+      "department": "Marketing",
+      "email": "jessica.t@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:40:00+05:45"
+      },
+      "contacts": ["u1", "u2", "u4", "u6", "u8"]
+    },
+    {
+      "id": "u6",
+      "name": "Alex Wong",
+      "avatar": "https://www.machovibes.com/wp-content/uploads/2018/07/40-Best-Portrait-Photography-Poses-for-Men-36.jpg",
+      "jobRole": "Data Scientist",
+      "department": "Analytics",
+      "email": "alex.w@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:35:00+05:45"
+      },
+      "contacts": ["u1", "u3", "u5", "u7", "u9"]
+    },
+    {
+      "id": "u7",
+      "name": "Sofia Garcia",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "jobRole": "Product Designer",
+      "department": "Design",
+      "email": "sofia.g@company.com",
+      "status": {
+        "isOnline": false,
+        "lastSeen": "2025-01-28T08:30:00+05:45"
+      },
+      "contacts": ["u1", "u2", "u4", "u6", "u8"]
+    },
+    {
+      "id": "u8",
+      "name": "James Wilson",
+      "avatar": "https://www.machovibes.com/wp-content/uploads/2018/07/40-Best-Portrait-Photography-Poses-for-Men-21.jpg",
+      "jobRole": "DevOps Engineer",
+      "department": "Engineering",
+      "email": "james.w@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:45:00+05:45"
+      },
+      "contacts": ["u1", "u3", "u5", "u7", "u9"]
+    },
+    {
+      "id": "u9",
+      "name": "Emma Thompson",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+      "jobRole": "Content Strategist",
+      "department": "Marketing",
+      "email": "emma.t@company.com",
+      "status": {
+        "isOnline": false,
+        "lastSeen": "2025-01-28T08:15:00+05:45"
+      },
+      "contacts": ["u2", "u4", "u6", "u8", "u10"]
+    },
+    {
+      "id": "u10",
+      "name": "Lucas Martinez",
+      "avatar": "https://www.machovibes.com/wp-content/uploads/2018/07/40-Best-Portrait-Photography-Poses-for-Men-40.jpg",
+      "jobRole": "Software Architect",
+      "department": "Engineering",
+      "email": "lucas.m@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:50:00+05:45"
+      },
+      "contacts": ["u1", "u3", "u5", "u7", "u9"]
+    },
+    {
+      "id": "u11",
+      "name": "Rachel Foster",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "jobRole": "QA Lead",
+      "department": "Engineering",
+      "email": "rachel.f@company.com",
+      "status": {
+        "isOnline": true,
+        "lastSeen": "2025-01-28T09:55:00+05:45"
+      },
+      "contacts": ["u1", "u2", "u4", "u6", "u8"]
+    }
+  ],
+  "chats": [
+    {
+      "id": "c0",
+      "participants": ["u1", "u11"],
+      "messages": [
+        {
+          "id": "m21",
+          "sender": "u11",
+          "content": "Found some edge cases in the new feature implementation",
+          "timestamp": "2025-01-28T09:50:00+05:45"
+        },
+        {
+          "id": "m22",
+          "sender": "u1",
+          "content": "Thanks Rachel! I'll look into those right away",
+          "timestamp": "2025-01-28T09:55:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Thanks Rachel! I'll look into those right away",
+        "timestamp": "2025-01-28T09:55:00+05:45"
+      }
+    },
+    {
+      "id": "c1",
+      "participants": ["u1", "u2"],
+      "messages": [
+        {
+          "id": "m1",
+          "sender": "u1",
+          "content": "Hey Michael, how's the product roadmap coming along?",
+          "timestamp": "2025-01-28T09:00:00+05:45"
+        },
+        {
+          "id": "m2",
+          "sender": "u2",
+          "content": "Hi Sarah! Just finalizing the Q1 priorities. Would you like to review it?",
+          "timestamp": "2025-01-28T09:05:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Hi Sarah! Just finalizing the Q1 priorities. Would you like to review it?",
+        "timestamp": "2025-01-28T09:05:00+05:45"
+      }
+    },
+    {
+      "id": "c2",
+      "participants": ["u1", "u3"],
+      "messages": [
+        {
+          "id": "m3",
+          "sender": "u3",
+          "content": "I've updated the design system with new components",
+          "timestamp": "2025-01-28T08:30:00+05:45"
+        },
+        {
+          "id": "m4",
+          "sender": "u1",
+          "content": "Awesome! The new components look great. Can we discuss the animation transitions?",
+          "timestamp": "2025-01-28T08:35:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Awesome! The new components look great. Can we discuss the animation transitions?",
+        "timestamp": "2025-01-28T08:35:00+05:45"
+      }
+    },
+    {
+      "id": "c7",
+      "participants": ["u1", "u4"],
+      "messages": [
+        {
+          "id": "m13",
+          "sender": "u1",
+          "content": "How's the backend migration going?",
+          "timestamp": "2025-01-28T09:25:00+05:45"
+        },
+        {
+          "id": "m14",
+          "sender": "u4",
+          "content": "Almost done! Just running final tests before deployment.",
+          "timestamp": "2025-01-28T09:30:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Almost done! Just running final tests before deployment.",
+        "timestamp": "2025-01-28T09:30:00+05:45"
+      }
+    },
+    {
+      "id": "c4",
+      "participants": ["u1", "u5"],
+      "messages": [
+        {
+          "id": "m7",
+          "sender": "u5",
+          "content": "Sarah, do you have time to review the marketing copy for the new features?",
+          "timestamp": "2025-01-28T09:15:00+05:45"
+        },
+        {
+          "id": "m8",
+          "sender": "u1",
+          "content": "Sure! I'll take a look after my current meeting.",
+          "timestamp": "2025-01-28T09:20:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Sure! I'll take a look after my current meeting.",
+        "timestamp": "2025-01-28T09:20:00+05:45"
+      }
+    },
+    {
+      "id": "c5",
+      "participants": ["u1", "u6"],
+      "messages": [
+        {
+          "id": "m9",
+          "sender": "u6",
+          "content": "I've analyzed the user interaction patterns you requested",
+          "timestamp": "2025-01-28T08:00:00+05:45"
+        },
+        {
+          "id": "m10",
+          "sender": "u1",
+          "content": "Perfect timing! This will help with our UX improvements.",
+          "timestamp": "2025-01-28T08:05:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Perfect timing! This will help with our UX improvements.",
+        "timestamp": "2025-01-28T08:05:00+05:45"
+      }
+    },
+    {
+      "id": "c6",
+      "participants": ["u1", "u7"],
+      "messages": [
+        {
+          "id": "m11",
+          "sender": "u1",
+          "content": "Sofia, can you share the latest design iterations?",
+          "timestamp": "2025-01-28T07:30:00+05:45"
+        },
+        {
+          "id": "m12",
+          "sender": "u7",
+          "content": "Just uploaded them to Figma. Added some micro-interactions you mentioned.",
+          "timestamp": "2025-01-28T07:35:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "Just uploaded them to Figma. Added some micro-interactions you mentioned.",
+        "timestamp": "2025-01-28T07:35:00+05:45"
+      }
+    },
+    {
+      "id": "c7",
+      "participants": ["u1", "u8"],
+      "messages": [
+        {
+          "id": "m13",
+          "sender": "u8",
+          "content": "We need to update the CI/CD pipeline for the new features",
+          "timestamp": "2025-01-28T09:40:00+05:45"
+        },
+        {
+          "id": "m14",
+          "sender": "u1",
+          "content": "I'll prepare the frontend deployment configs by EOD",
+          "timestamp": "2025-01-28T09:45:00+05:45"
+        }
+      ],
+      "lastMessage": {
+        "content": "I'll prepare the frontend deployment configs by EOD",
+        "timestamp": "2025-01-28T09:45:00+05:45"
+      }
+    }
+  ]
+}
